@@ -10,7 +10,7 @@ const StyledFooter = styled.footer`
 `;
 
 const Footer = () => {
-  return <StyledFooter class="layout-width"></StyledFooter>;
+  return <StyledFooter className="layout-width"></StyledFooter>;
 };
 
 export default React.memo(Footer);
