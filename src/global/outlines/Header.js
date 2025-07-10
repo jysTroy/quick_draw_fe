@@ -3,6 +3,7 @@ import styled from 'styled-components';
 import { NavLink } from 'react-router-dom';
 import classNames from 'classnames';
 import { MdHome, MdDraw, MdLogin, MdLogout } from 'react-icons/md';
+import useLogout from '../hooks/useLogout';
 import useUserInfo from '../hooks/useUserInfo';
 import color from '../styles/color';
 import fontsize from '../styles/fontsize';
@@ -51,6 +52,7 @@ const StyledHeader = styled.header`
 
 const Header = () => {
   const [isLogin, loggedMember] = useUserInfo();
+  const onLogout = useLogout();
 
   return (
     <StyledHeader className="layout-width">
