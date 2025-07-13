@@ -25,7 +25,7 @@ Quick, Draw! - 그림 인식 기반 예측 서비스
   - ref를 통해 외부에서 DOM 제어 가능
   - styled-components를 활용한 테두리 및 마진 스타일 적용
 
--  Direction.js
+- Direction.js
   -  사용자에게 무엇을 그리세요라는 지시 문구 출력
   -  category[1] 값을 기반으로 동적으로 문구 생성
 
