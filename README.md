@@ -32,8 +32,8 @@ Quick, Draw! - 그림 인식 기반 예측 서비스
 - Result.js
   - 예측 결과와 제출/초기화 버튼을 포함한 결과 컴포넌트
 
-<img width="1916" height="905" alt="image" src="https://github.com/user-attachments/assets/e21b64d3-d13a-4cb3-9e13-836a22c232fe" />
-
 <img width="1919" height="910" alt="image" src="https://github.com/user-attachments/assets/311acaf7-9e61-46a1-962d-e71c4a569316" />
+
+<img width="1916" height="905" alt="image" src="https://github.com/user-attachments/assets/e21b64d3-d13a-4cb3-9e13-836a22c232fe" />
 
 
